@@ -29,6 +29,12 @@ main {
 section {
     margin-bottom: 2rem;
 }
+.github-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
 footer {
     background: #007acc;
     color: white;
